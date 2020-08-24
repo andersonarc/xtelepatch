@@ -1,0 +1,44 @@
+_______________________________________________
+-: root your phone
+---: there are lots of tutorials in the internet
+---: google it
+
+-: install Lucky Patcher from luckypatchers.com
+---: open Lucky Patcher
+---: click on Toolbox
+---: select Andoid Patch
+---: patch Signature Verification status always True
+---: wait for patch to complete
+
+-: if there are problems with Telegram after patch
+---: uninstall Telegram
+---: install original Telegram
+---: clear Dalvik cache
+---: patch Telegram and install it
+---: after that it should work fine
+
+-: proceed to installation
+_______________________________________________
+
+
+_______________________________________________
+-: получите root права на своем телефоне
+---: в интернете много руководств
+---: загуглите это
+
+-: установите Lucky Patcher с luckypatchers.com
+---: откройте Lucky Patcher
+---: нажмите на Инструменты
+---: выберите Патчи Андроида
+---: добавьте патч Проверка подписи всегда верна
+---: дождитесь завершения патча
+
+-: если у вас возникают проблемы с Telegram после патча
+---: удалите Telegram
+---: установите оригинальный Telegram
+---: очистите кеш Dalvik
+---: сделайте патч Telegram и установите его
+---: после этого проблемы должны исчезнуть
+
+-: продолжайте установку
+_______________________________________________

@@ -9,6 +9,7 @@ check() {
 echo
 echo "[BUILD]"
 echo "<START>"
+mkdir -p work
 cd ..
 ./gradlew assembleArm64_sdk23
 check
