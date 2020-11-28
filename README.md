@@ -1,3 +1,24 @@
+# XTelepatch
+
+## Description
+
+XTelepatch is a patch for Telegram messenger. It's purpose is to adjust some features for better user experience.
+Currently available features are listed below.
+
+- No self-destruction timer in secret chats.
+   - You can download media from secret chats.
+   - When you set the timer, it is always set to 10 seconds.
+
+Feature suggestions are always accepted.
+
+## Installation
+
+Installation documentation is located in lab/docs/INSTALL.txt
+You can experience various difficulties while installing, but the result is definitely worth it.
+Feel free to share your troubles in the issues section.
+
+# Telegram
+
 ## Telegram messenger for Android
 
 [Telegram](https://telegram.org) is a messaging app with a focus on speed and security. It’s superfast, simple and free.
