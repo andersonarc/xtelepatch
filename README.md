@@ -13,7 +13,7 @@ Feature suggestions are always accepted.
 
 ## Installation
 
-Installation documentation is located in lab/docs/INSTALL.txt
+Installation documentation is located in **lab/docs/INSTALL.txt**.
 You can experience various difficulties while installing, but the result is definitely worth it.
 Feel free to share your troubles in the issues section.
 
