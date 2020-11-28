@@ -5,9 +5,9 @@
 XTelepatch is a patch for Telegram messenger. It's purpose is to adjust some features for better user experience.
 Currently available features are listed below.
 
-1. No self-destruction timer in secret chats.
-1. 1. You can download media from secret chats.
-1. 2. When you set the timer, it is always set to 10 seconds.
+- No self-destruction timer in secret chats.
+   - You can download media from secret chats.
+   - When you set the timer, it is always set to 10 seconds.
 
 Feature suggestions are always accepted.
 
